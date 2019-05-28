@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Swaping
+public class Swaping
 {
 	public static void main(String args[])
 	{
