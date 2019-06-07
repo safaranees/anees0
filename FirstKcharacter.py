@@ -1,3 +1,3 @@
-n1,n2=input().split()
-n2=int(n2)
-print(n1[0:n2])
+num1,num2=input().split()
+num=int(num2)
+print(num1[0:num2])
