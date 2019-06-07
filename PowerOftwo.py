@@ -1,2 +1,2 @@
-number=int(input())
-print(number*2)
+poweroftwo=int(input())
+print(poweroftwo*2)
